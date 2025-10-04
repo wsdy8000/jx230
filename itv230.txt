@@ -1,5 +1,3 @@
-江西电信230#genre#宜春115.153.230.145
-江西电信230#genre#宜春115.153.230.145
 央視频道,#genre#
 CCTV1-高清,rtsp://115.153.230.145/PLTV/88888888/224/3221225699/iptv8040.smil
 CCTV2-高清,rtsp://115.153.230.145/PLTV/88888888/224/3221226825/59814584.smil
@@ -102,6 +100,7 @@ CCTV1-标清,rtsp://115.153.230.145/PLTV/88888888/224/3221225517/iptv7949.smil
 
 
 数字频道,#genre#
+电视指南-高清rtsp://115.153.230.145/PLTV/88888888/224/3221226969/86129034.smil
 第一剧场-高清,rtsp://115.153.230.145/PLTV/88888888/224/3221226961/86128891.smil
 风云音乐-高清,rtsp://115.153.230.145/PLTV/88888888/224/3221226994/86128897.smil
 风云剧场-高清,rtsp://115.153.230.145/PLTV/88888888/224/3221226963/86128874.smil
@@ -110,7 +109,6 @@ CCTV1-标清,rtsp://115.153.230.145/PLTV/88888888/224/3221225517/iptv7949.smil
 女性时尚-高清,rtsp://115.153.230.145/PLTV/88888888/224/3221226998/86128978.smil
 高尔夫网球-高清,rtsp://115.153.230.145/PLTV/88888888/224/3221226967/86128985.smil
 风云足球-高清rtsp://115.153.230.145/PLTV/88888888/224/3221227000/86128919.smil
-电视指南-高清rtsp://115.153.230.145/PLTV/88888888/224/3221226969/86129034.smil
 兵器科技-高清rtsp://115.153.230.145/PLTV/88888888/224/3221227004/86132185.smil
 央视台球-高清,rtsp://115.153.230.145/PLTV/88888888/224/3221226955/86106661.smil
 央视精品-高清,rtsp://115.153.230.145/PLTV/88888888/224/3221226957/86128679.smil
@@ -125,9 +123,7 @@ CHC家庭影院,rtsp://115.153.233.154/PLTV/88888888/224/3221226959/86128800.smi
 CHC影迷电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC家庭影院,rtsp://115.153.230.145/PLTV/88888888/224/3221226959/86128800.smil
 CHC动作电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226992/86128817.smil
-1905电影网,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905a
-乐游,http://cdn.jdshipin.com/kdf.php?id=1745
-上海新纪实,http://cdn.jdshipin.com/kdf.php?id=1600
+
 法治天地rtsp://115.153.230.145/PLTV/88888888/224/3221225607/iptv7994.smil
 生活时尚rtsp://115.153.230.145/PLTV/88888888/224/3221225603/iptv7992.smil
 金色频道rtsp://115.153.230.145/PLTV/88888888/224/3221225621/iptv8001.smil
@@ -260,17 +256,28 @@ TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 
 
-Astro 体育,https://a.ru8.dpdns.org/now/ufc/master.m3u8
-
-香港卫视http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港电视http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 香港国际卫视,http://106.53.99.30/tv/hk.php?id=HKI
-上海新纪实,http://8.138.7.223/tv/shtv.php?id=xjs
-上海魔都眼,http://8.138.7.223/tv/shtv.php?id=mdy
-上海乐游,http://8.138.7.223/tv/shtv.php?id=ly
-1905电影网,http://php.jdshipin.com/1905.php
 
+
+CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+凤凰中文,http://iptv.huuc.edu.cn/hls/fhzw.m3u8
+凤凰资讯,http://iptv.huuc.edu.cn/hls/fhzx.m3u8
+凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
+探索频道,http://iptv.huuc.edu.cn/hls/discovery.m3u8
+国家地理频道,http://iptv.huuc.edu.cn/hls/natlgeo.m3u8
+星空卫视,http://iptv.huuc.edu.cn/hls/startv.m3u8
+Channel[V],http://iptv.huuc.edu.cn/hls/channelv.m3u8
+卫视体育台,http://iptv.huuc.edu.cn/hls/starsports.m3u8
+
+
+
+
+九江新闻综合,rtsp://115.153.245.70/PLTV/88888888/224/3221227268/122499157.smil
+九江公共,rtsp://115.153.245.70/PLTV/88888888/224/3221227270/122499168.smil
+九江教育,rtsp://115.153.245.70/PLTV/88888888/224/3221227272/122501308.smil
+赣州新闻综合,rtsp://115.153.230.145/PLTV/88888888/224/3221227254/121266741.smil
+赣州公共,rtsp://115.153.230.145/PLTV/88888888/224/3221227262/121375235.smil
+赣州教育,rtsp://115.153.230.145/PLTV/88888888/224/3221227263/121375179.smil
 
 
 
@@ -310,3 +317,4 @@ CGTN-法语,rtsp://115.153.230.145/PLTV/88888888/224/3221226968/77799060.smil
 CGTN-阿拉伯语,rtsp://115.153.230.145/PLTV/88888888/224/3221226951/77799001.smil
 CGTN-俄语,rtsp://115.153.230.145/PLTV/88888888/224/3221226966/77798997.smil
 CGTN,rtsp://115.153.230.145/PLTV/88888888/224/3221226694/55738457.smil
+
