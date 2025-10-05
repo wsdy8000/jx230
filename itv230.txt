@@ -261,6 +261,15 @@ TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 
 东森新闻,P2p://starvod.xyz:19806/571f577835b04059a840f24b40695776.ts
 TVBS新闻,P2p://starvod.xyz:19806/b608ab000afc4cc19a467b01b6181840.ts
+LIFETIME,P2p://starvod.xyz:19806/819f1d3fb92741c0b5caf39b5b8b165f.ts
+居家生活,P2p://starvod.xyz:19806/21eb83d773344e3cae6316288af3818c.ts
+美食星球,P2p://starvod.xyz:19806/9d27c39385aa4b3cb200048b671e376b.ts
+EYE旅游,P2p://starvod.xyz:19806/d81b21f72705424badcf98dfcef332f4.ts
+龙华戏剧p,P2p://starvod.xyz:19806/6a6681f04fcc4478886cded08a10c658.ts
+龙华电影p,P2p://starvod.xyz:19806/574ee66b78d44e6e81450ae523041523.ts
+LOVE野生,P2p://starvod.xyz:19806/ba87030233c046908d7c7bfaa3ff9df6.ts
+Smart知识,P2p://starvod.xyz:19806/91503615eaa2416b929e56f178be5100.ts
+
 
 
 香港国际卫视,http://106.53.99.30/tv/hk.php?id=HKI
@@ -318,6 +327,7 @@ CGTN-法语,rtsp://115.153.230.145/PLTV/88888888/224/3221226968/77799060.smil
 CGTN-阿拉伯语,rtsp://115.153.230.145/PLTV/88888888/224/3221226951/77799001.smil
 CGTN-俄语,rtsp://115.153.230.145/PLTV/88888888/224/3221226966/77798997.smil
 CGTN,rtsp://115.153.230.145/PLTV/88888888/224/3221226694/55738457.smil
+
 
 
 
