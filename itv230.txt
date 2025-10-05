@@ -244,7 +244,7 @@ TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 
 天映频道JD,http://php.jdshipin.com/smt.php?id=Celestial
 天映经典JD,http://php.jdshipin.com/smt.php?id=Celestial2
-天映CM+JD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
+ASTRO AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 重温经典JD,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 美亚电影JD,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 美亚电影JD,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
@@ -260,15 +260,18 @@ TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 
 
 
-TVBS新闻,P2p://starvod.xyz:19806/b608ab000afc4cc19a467b01b6181840.ts
+TVBS新闻P,P2p://starvod.xyz:19806/b608ab000afc4cc19a467b01b6181840.ts
 LIFETIME,P2p://starvod.xyz:19806/819f1d3fb92741c0b5caf39b5b8b165f.ts
 居家生活,P2p://starvod.xyz:19806/21eb83d773344e3cae6316288af3818c.ts
 美食星球,P2p://starvod.xyz:19806/9d27c39385aa4b3cb200048b671e376b.ts
 EYE旅游,P2p://starvod.xyz:19806/d81b21f72705424badcf98dfcef332f4.ts
 龙华戏剧p,P2p://starvod.xyz:19806/6a6681f04fcc4478886cded08a10c658.ts
 龙华电影p,P2p://starvod.xyz:19806/574ee66b78d44e6e81450ae523041523.ts
-LOVE野生,P2p://starvod.xyz:19806/ba87030233c046908d7c7bfaa3ff9df6.ts
+LOVE自然,P2p://starvod.xyz:19806/ba87030233c046908d7c7bfaa3ff9df6.ts
 Smart知识,P2p://starvod.xyz:19806/91503615eaa2416b929e56f178be5100.ts
+私人影院,P2p://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
+HITSmovie,P2p://starvod.xyz:19806/31e31d282a5a4acb9e7856599456072b.ts
+ASTRO BOO,P2p://starvod.xyz:19806/9ee546f426c64398af4f2d301c8f00b4.ts
 
 
 求索纪录,http://183.220.107.138:4022/rtp/239.10.0.221:5140
@@ -336,6 +339,7 @@ CGTN-法语,rtsp://115.153.230.145/PLTV/88888888/224/3221226968/77799060.smil
 CGTN-阿拉伯语,rtsp://115.153.230.145/PLTV/88888888/224/3221226951/77799001.smil
 CGTN-俄语,rtsp://115.153.230.145/PLTV/88888888/224/3221226966/77798997.smil
 CGTN,rtsp://115.153.230.145/PLTV/88888888/224/3221226694/55738457.smil
+
 
 
 
