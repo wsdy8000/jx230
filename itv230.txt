@@ -259,8 +259,10 @@ ASTRO AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 
 
-
+东森新闻p,P2p://starvod.xyz:19806/571f577835b04059a840f24b40695776.ts
 TVBS新闻P,P2p://starvod.xyz:19806/b608ab000afc4cc19a467b01b6181840.ts
+靖天综合p,P2p://starvod.xyz:19806/75b3e6bac51d4f08ba7ed008892ad6c2.ts
+台视综合p,P2p://starvod.xyz:19806/c37a6ec58dd140ccab0e25b94849ee06.ts
 LIFETIME,P2p://starvod.xyz:19806/819f1d3fb92741c0b5caf39b5b8b165f.ts
 居家生活,P2p://starvod.xyz:19806/21eb83d773344e3cae6316288af3818c.ts
 美食星球,P2p://starvod.xyz:19806/9d27c39385aa4b3cb200048b671e376b.ts
@@ -339,6 +341,7 @@ CGTN-法语,rtsp://115.153.230.145/PLTV/88888888/224/3221226968/77799060.smil
 CGTN-阿拉伯语,rtsp://115.153.230.145/PLTV/88888888/224/3221226951/77799001.smil
 CGTN-俄语,rtsp://115.153.230.145/PLTV/88888888/224/3221226966/77798997.smil
 CGTN,rtsp://115.153.230.145/PLTV/88888888/224/3221226694/55738457.smil
+
 
 
 
