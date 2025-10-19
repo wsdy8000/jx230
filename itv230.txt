@@ -204,9 +204,7 @@ IPTV法治,rtsp://115.153.230.145/PLTV/88888888/224/3221226993/86440997.smil
 
 测试频道,#genre#
 
-鳳凰衛視中文BX,http://bxtv.3a.ink/api.php?id=fhzw
-鳳凰衛視资讯BX,http://bxtv.3a.ink/api.php?id=fhzx
-鳳凰衛視香港BX,http://bxtv.3a.ink/api.php?id=fhhk
+
 
 
 凤凰中文JD,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#
@@ -341,6 +339,7 @@ CGTN-法语,rtsp://115.153.230.145/PLTV/88888888/224/3221226968/77799060.smil
 CGTN-阿拉伯语,rtsp://115.153.230.145/PLTV/88888888/224/3221226951/77799001.smil
 CGTN-俄语,rtsp://115.153.230.145/PLTV/88888888/224/3221226966/77798997.smil
 CGTN,rtsp://115.153.230.145/PLTV/88888888/224/3221226694/55738457.smil
+
 
 
 
