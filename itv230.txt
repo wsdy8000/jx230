@@ -29,6 +29,7 @@ CCTV1-标清,rtsp://115.153.230.145/PLTV/88888888/224/3221225517/iptv7949.smil
 江西公共农业-高清,rtsp://115.153.230.145/PLTV/88888888/224/3221226708/53213097.smil
 江西少儿-高清,rtsp://115.153.230.145/PLTV/88888888/224/3221226938/68733921.smil
 江西新闻-高清,rtsp://115.153.230.145/PLTV/88888888/224/3221226650/53190437.smil
+江西移动电视,rtsp://115.153.212.72/PLTV/88888888/224/3221227283/125365797.smil
 风尚购物-高清,rtsp://115.153.230.145/PLTV/88888888/224/3221227049/90141188.smil
 江西陶瓷-高清,rtsp://115.153.230.145/PLTV/88888888/224/3221227072/105246432.smil
 江西教育-高清,rtsp://115.153.230.145/PLTV/88888888/224/3221226942/69552502.smil
@@ -248,13 +249,7 @@ ASTRO AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 美亚电影JD,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 美亚电影JD,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 
-龙华电影CDN,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
-龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
-龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
-龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+
 
 
 东森新闻p,P2p://starvod.xyz:19806/571f577835b04059a840f24b40695776.ts
@@ -339,6 +334,7 @@ CGTN-法语,rtsp://115.153.230.145/PLTV/88888888/224/3221226968/77799060.smil
 CGTN-阿拉伯语,rtsp://115.153.230.145/PLTV/88888888/224/3221226951/77799001.smil
 CGTN-俄语,rtsp://115.153.230.145/PLTV/88888888/224/3221226966/77798997.smil
 CGTN,rtsp://115.153.230.145/PLTV/88888888/224/3221226694/55738457.smil
+
 
 
 
