@@ -127,6 +127,7 @@ CHC影迷电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smi
 CHC家庭影院,rtsp://115.153.230.145/PLTV/88888888/224/3221226959/86128800.smil
 CHC动作电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226992/86128817.smil
 重温经典-超清,http://8.138.7.223/tv/cwjd.php
+凤凰中文-HD,https://stream1.freetv.fun/feng-huang-zhong-wen-9.ctv
 法治天地rtsp://115.153.230.145/PLTV/88888888/224/3221225607/iptv7994.smil
 生活时尚rtsp://115.153.230.145/PLTV/88888888/224/3221225603/iptv7992.smil
 金色频道rtsp://115.153.230.145/PLTV/88888888/224/3221225621/iptv8001.smil
@@ -205,7 +206,8 @@ IPTV法治,rtsp://115.153.230.145/PLTV/88888888/224/3221226993/86440997.smil
 
 测试频道,#genre#
 
-
+凤凰中文HD,https://stream1.freetv.fun/feng-huang-zhong-wen-9.ctv
+凤凰中文f,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
 
 
 凤凰中文JD,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#
@@ -334,6 +336,7 @@ CGTN-法语,rtsp://115.153.230.145/PLTV/88888888/224/3221226968/77799060.smil
 CGTN-阿拉伯语,rtsp://115.153.230.145/PLTV/88888888/224/3221226951/77799001.smil
 CGTN-俄语,rtsp://115.153.230.145/PLTV/88888888/224/3221226966/77798997.smil
 CGTN,rtsp://115.153.230.145/PLTV/88888888/224/3221226694/55738457.smil
+
 
 
 
