@@ -284,15 +284,6 @@ MOVIEMOVIE,P2p://starvod.xyz:19806/08105ee824114f418daecd2956b50cd1.ts
 香港国际卫视,http://106.53.99.30/tv/hk.php?id=HKI
 
 
-CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-凤凰中文,http://iptv.huuc.edu.cn/hls/fhzw.m3u8
-凤凰资讯,http://iptv.huuc.edu.cn/hls/fhzx.m3u8
-凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
-探索频道,http://iptv.huuc.edu.cn/hls/discovery.m3u8
-国家地理频道,http://iptv.huuc.edu.cn/hls/natlgeo.m3u8
-星空卫视,http://iptv.huuc.edu.cn/hls/startv.m3u8
-Channel[V],http://iptv.huuc.edu.cn/hls/channelv.m3u8
-卫视体育台,http://iptv.huuc.edu.cn/hls/starsports.m3u8
 
 
 
@@ -336,6 +327,7 @@ CGTN-法语,rtsp://115.153.230.145/PLTV/88888888/224/3221226968/77799060.smil
 CGTN-阿拉伯语,rtsp://115.153.230.145/PLTV/88888888/224/3221226951/77799001.smil
 CGTN-俄语,rtsp://115.153.230.145/PLTV/88888888/224/3221226966/77798997.smil
 CGTN,rtsp://115.153.230.145/PLTV/88888888/224/3221226694/55738457.smil
+
 
 
 
