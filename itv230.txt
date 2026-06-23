@@ -234,10 +234,7 @@ IPTV法治,rtsp://115.153.230.145/PLTV/88888888/224/3221226993/86440997.smil
 
 
 TVBS新闻P,P2p://starvod.xyz:19806/b608ab000afc4cc19a467b01b6181840.ts
-凤凰卫视,http://iptv.4666888.xyz/iptv2A.php?id=27
-华艺中文,http://iptv.4666888.xyz/iptv2A.php?id=37
-东森电影HD,http://iptv.4666888.xyz/iptv2A.php?id=48
-东森综合,http://iptv.4666888.xyz/iptv2A.php?id=58
+
 
 
 
